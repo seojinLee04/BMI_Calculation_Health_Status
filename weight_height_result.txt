@@ -1,9 +1,9 @@
-75 171 BMI = 304.00 Health Status = Obese
-60 167 BMI = 463.89 Health Status = Obese
-55 137 BMI = 452.89 Health Status = Obese
-60 159 BMI = 441.67 Health Status = Obese
-57 183 BMI = 563.25 Health Status = Obese
-53 165 BMI = 587.40 Health Status = Obese
-56 188 BMI = 599.49 Health Status = Obese
-46 163 BMI = 770.32 Health Status = Obese
-87 162 BMI = 214.03 Health Status = Obese
+75 171 BMI = 25.65 Health Status = Overweight
+60 167 BMI = 21.51 Health Status = Normal weight
+55 137 BMI = 29.30 Health Status = Overweight
+60 159 BMI = 23.73 Health Status = Normal weight
+57 183 BMI = 17.02 Health Status = Underweight
+53 165 BMI = 19.47 Health Status = Normal weight
+56 188 BMI = 15.84 Health Status = Underweight
+46 163 BMI = 17.31 Health Status = Underweight
+87 162 BMI = 33.15 Health Status = Obese

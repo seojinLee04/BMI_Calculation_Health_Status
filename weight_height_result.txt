@@ -1,0 +1,9 @@
+75 171 BMI = 25.65 Health Status = Overweight
+60 167 BMI = 21.51 Health Status = Normal weight
+55 137 BMI = 29.30 Health Status = Overweight
+60 159 BMI = 23.73 Health Status = Normal weight
+57 183 BMI = 17.02 Health Status = Underweight
+53 165 BMI = 19.47 Health Status = Normal weight
+56 188 BMI = 15.84 Health Status = Underweight
+46 163 BMI = 17.31 Health Status = Underweight
+87 162 BMI = 33.15 Health Status = Obese
